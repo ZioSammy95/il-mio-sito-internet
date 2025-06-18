@@ -1,2 +1,2 @@
 # il-mio-sito-internet
-il mio primo sito internet
+Ciao, mi chiamo Samuele e questo è il mio primo repository del mio sito internet.
